@@ -16,3 +16,4 @@ Refs #
 - [ ] Tested locally
 - [ ] Screenshots or video added for UI changes
 - [ ] Needs a staging deploy
+- [ ] Opened as a draft while in progress, marked Ready for review when done
